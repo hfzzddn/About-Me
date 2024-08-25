@@ -9,11 +9,17 @@
 📜 I am proud to share that I have earned certificates from DataCamp, validating my proficiency in diverse data-related topics.
 
 SQL Fundamental (Certificate: SQL Fundamentals.pdf)
+
 SQL For Business Analyst (Certificate:SQL for Business Analysts.pdf)
+
 SQL For Database Administrator (Certificate:SQL for Database Administrators.pdf)
+
 SQL Server Fundamental (Certificate:SQL Server Fundamentals.pdf)
+
 SQL Server For Database Administrator (Certificate :SQL Server for Database Administrators.pdf)
+
 Data Analyst Associate (Certificate : https://www.datacamp.com/certificate/DAA0013682870458)
+
 📫 Feel free to connect with me on:
 
 LinkedIn: linkedin.com/in/mohamad-hafizzuddin
